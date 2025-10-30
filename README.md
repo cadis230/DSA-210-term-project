@@ -12,4 +12,4 @@ Analyzing every point I have played in tournaments and categorizing my errors. A
 
 ### Updating My Training Plan
 
-
+.
