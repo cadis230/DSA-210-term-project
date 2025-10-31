@@ -1,15 +1,33 @@
 # DSA-210-term-project
 
 ## Project Overview
-Throughout the year I attend several trainings and tournaments of ultimate frisbee. I usually have 3 times 3 hours (total of 9 hours) training in a week. In this project, I will investigate if I can integrate my trainings into my play in tournaments. What I mean is, I will analyze my errors in the tournaments and compare what I have trained until the tournament. The aim of the project is to understand my weak sides and improve my play by the help of the trainings until the end of the year. 
+In this project, I will be investigating how my training content, training participation and weekly throwing hours affect my overall tournament performance in ultimate frisbee. For this purpose, I will be collecting data of my trainings (content, participation), throwing sessions and also my tournament performance data (error type, frequency). By the end of this project, I aim to identify which factors have the major effect on my performance. This project will involve data collection, data cleaning, exploratory analysis and statistical modeling. Eventually, I hope to determine whether there is a correlation between training and tournament performance. 
+
+The plan is to:
+Analyze data from practice, throwing sessions and games in tournaments to understand key performance indicators.
+Categorize in-game errors (drops/ throwing errors/ miscommunication etc.)
+Model the relationship between my training habits and error type/ frequency
+Develop insights into which aspects of training most improve tournament performance
+
 
 ## Objectives
 ### The Training Content
-Analyzing what I have been trained for every week before the tournament. 
+Analyzing what I have been trained for every week. Also, what I have been focused mostly in throwing sessions.
 
-### Identifying the Major Errors
+### Identification and Categorization of the Errors
 Analyzing every point I have played in tournaments and categorizing my errors. After categorizing, calculating the percentages of my errors.
 
 ### Updating My Training Plan
+In order to have a better understanding of effects of throwing sessions, I plan to change my throwing hours and investigate whether there is a major chance in my performance.
 
-.
+### Modelling of Training - Performance Relationship
+Using statistical and machine learning methods to determine whether training aspects have significant effect on tournament performance.
+
+### Apply Data Science Skills
+Applying data analysis and statistical techniques to investigate real-life applications in a systematic way.
+
+
+## Motivation
+This project combines my personal experience as a frisbee player and my interest in data science.
+
+
