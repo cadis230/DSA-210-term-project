@@ -64,8 +64,25 @@ The dataset will be self-collected throughout the trainings and torunamnets. Obs
 
  ## Analysis Plan
 
- ### Data Collection
- 
+ ### Data Collection & Cleaning
+ - Record training, throwing and torunmanet data weekly.
+ - Standardize variables and handle missing or inconsistent entries.
+
+ ### Data Exploration
+ - Visualize the frequency of each error type.
+ - Explain trends between throwing session hours and total errors.
+ - Compare error distribution.
+
+ ### Hypothesis Testing
+ - **H₀:** None of the measured aspects have a major affect on performance  
+ - **H₁:** At least one aspect have an affect on performance
+
+ ### Visualization
+ - Showing weekly changes in error rate vs. throwing hours by line plots
+ - Comparing errors accross training types by using boxplots
+ - Coefficient plots for model interpretation
+
+   
 
   
 
