@@ -96,6 +96,6 @@ By the end of this project, I try to answer the following questions:
 - Which types of training most effectively reduce in-game mistakes?
 - Can I predict my performance trends based on training intensity and structure?
 
-This project will not only help me measure my athletic progress using data but also demonstrate the application of data science methods in sports analytics.
+This project will not only help me measure my athletic progress by using data but also demonstrate the application of data science methods in sports analytics.
 Since I regularly play in ultimate frisbee tournaments, I plan to apply my findings in future games to make adjustments to my training to perform better.
 
