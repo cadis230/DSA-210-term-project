@@ -32,12 +32,15 @@ This project combines my personal experience as a frisbee player and my interest
 Let's emphasise them one by one:
 
 **Personal Growth**
+
 Understanding the weakest part of my game is very important for me as an athlete and captain. 
 
 **Real-Life Application**
+
 This project is a chance for me to apply concepts that I have been learn in Data Science course while get a chance to improve my athletic statement.
 
 **Long-Term Impact**
+
 By the end of the project, I'll gain a better understanding of both statical modeling and athletic insights. Furthermore, I can apply this technique to the team.
 
 ## Dataset
@@ -82,7 +85,11 @@ The dataset will be self-collected throughout the trainings and torunamnets. Obs
  - Comparing errors accross training types by using boxplots
  - Coefficient plots for model interpretation
 
-   
+ ### Example Analysis
+  - Analyze whether weeks with higher throwing hours correspond to lower error rates in the following tournament matches.
+  - Analysis of a scatter plot of weekly throwing hours and total match error rate.
+  - A before / after analysis around a targeted period of time to understand if performance is affected significantly.
 
-  
+## Conclusion
+
 
