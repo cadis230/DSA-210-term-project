@@ -29,5 +29,30 @@ Applying data analysis and statistical techniques to investigate real-life appli
 
 ## Motivation
 This project combines my personal experience as a frisbee player and my interest in data science.
+Let's emphasise them one by one:
 
+**Personal Growth**
+Understanding the weakest part of my game is very important for me as an athlete and captain. 
+
+**Real-Life Application**
+This project is a chance for me to apply concepts that I have been learn in Data Science course while get a chance to improve my athletic statement.
+
+**Long-Term Impact**
+By the end of the project, I'll gain a better understanding of both statical modeling and athletic insights. Furthermore, I can apply this technique to the team.
+
+## Dataset
+The dataset will be self-collected throughout the trainings and torunamnets. Observation will include followings:
+
+- **Training Date**: The date of each training session  
+- **Training type**: Whether it's fundamental or conditioning  
+- **Weekly Throwing hours**: Self-rated sleep quality (scale: 1–10)  
+- **Attendance(1/0)**: Participation status of training  
+- **Match date**: The date of each tournament game 
+- **Opponent level(low/medium/high)**:  Comparision of the opponent matching player  
+- **Errors per match**: Total errors per game
+- **Error types**: Type of error (drop, throwing, miscommunication)
+- **Minutes played**: Play duration of me during each game
+
+  ## Tools and Technologies
+  
 
