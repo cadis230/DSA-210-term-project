@@ -54,5 +54,18 @@ The dataset will be self-collected throughout the trainings and torunamnets. Obs
 - **Minutes played**: Play duration of me during each game
 
   ## Tools and Technologies
+
+- **Python**: For data processing, cleaning and analysis
+- **Pandas**: For data manipulation
+- **Matplotlib/Seaborn**: To generate visualizations
+- **Statsmodels**: For regression and model evaluation
+- **Excel**: For structured data collection
+- **Statto**: For recording data, data preparation
+
+ ## Analysis Plan
+
+ ### Data Collection
+ 
+
   
 
