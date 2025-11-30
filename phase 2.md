@@ -6,9 +6,11 @@ Data is collected from 9/26/2025 to 11/5/2025. Data is kept under two main table
 For the second phase of the project, 2 H₀ are determined:
 
 *H₀*: Throwing hours do not affect tournament error rate.
+
 *H₁*: Increasing throwing hours decreases the tournament error rate.
 
 *H₀*: Minutes played and opponent level do not affect tournament error rate.
+
 *H₁*: As minutes played and opponent level increase, the tournament error rate increases as well.
 
 ## Visualization
